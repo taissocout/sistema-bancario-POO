@@ -1,2 +1,3 @@
 [2026-03-12] #0001  Removed dead code  // refactor: rename desafio.py to sistema-POO.py
 [2026-03-12] #0002  Improved variable naming  // docs: add bilingual README (PT/EN)
+[2026-03-12] #0003  Added input validation  // Sistema Bancario POO -  DIO
