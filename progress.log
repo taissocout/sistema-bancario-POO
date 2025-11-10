@@ -6,3 +6,4 @@
 [2026-03-12] #0006  Fixed off-by-one error  // feat: implement banking system with OOP and design patt
 [2026-03-12] #0007  Improved error messages  // chore: initialize banking system OOP project
 [2026-03-12] #0008  Added guard clause  // feat: define base Account class with balance and owner
+[2026-03-12] #0009  Simplified conditional branches  // feat: add SavingsAccount subclass with interest rate
