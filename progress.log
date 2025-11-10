@@ -9,3 +9,4 @@
 [2026-03-12] #0009  Simplified conditional branches  // feat: add SavingsAccount subclass with interest rate
 [2026-03-12] #0010  Reviewed setup instructions  // feat: add CheckingAccount with overdraft limit
 [2026-03-12] #0011  Reorganised folder structure  // feat: implement deposit and withdraw methods
+[2026-03-12] #0012  Refactored module structure  // feat: add transaction history with timestamps
