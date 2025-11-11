@@ -13,3 +13,4 @@
 [2026-03-12] #0013  Added guard clause  // refactor: extract validation logic to base class
 [2026-03-12] #0014  Simplified conditional branches  // fix: prevent negative balance without overdraft
 [2026-03-12] #0015  Cleaned up unused imports  // feat: add transfer between accounts
+[2026-03-12] #0016  Updated inline documentation  // docs: add docstrings to all public methods
