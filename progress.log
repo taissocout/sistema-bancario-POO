@@ -17,3 +17,4 @@
 [2026-03-12] #0017  Optimised query performance  // test: add unit tests for deposit and withdraw
 [2026-03-12] #0018  Cleaned up unused imports  // test: add test for overdraft limit enforcement
 [2026-03-12] #0019  Cleaned up unused imports  // security: validate all monetary inputs are positive
+[2026-03-12] #0020  Added guard clause  // refactor: use dataclass for transaction record
