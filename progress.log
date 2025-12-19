@@ -22,3 +22,4 @@
 [2026-03-12] #0022  Optimised query performance  // docs: add bilingual README PT/EN
 [2026-03-12] #0023  Simplified conditional branches  // feat: implement banking system with OOP and design patt
 [2026-03-12] #0024  Reviewed setup instructions  // fix: correct interest calculation rounding
+[2026-03-12] #0025  Extracted helper function  // style: enforce PEP8 formatting across all files
