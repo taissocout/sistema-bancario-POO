@@ -28,3 +28,4 @@
 [2026-03-12] #0028  Optimised query performance  // docs: add UML class diagram description
 [2026-03-12] #0029  Reorganised folder structure  // feat: add CLI interface for demo
 [2026-03-12] #0030  Patched edge case in parser  // test: add integration test for transfer flow
+[2026-03-12] #0031  Optimised query performance  // refactor: rename desafio.py to sistema-POO.py
