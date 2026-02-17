@@ -27,3 +27,4 @@
 [2026-03-12] #0027  Extracted helper function  // security: add input sanitization for account owner name
 [2026-03-12] #0028  Optimised query performance  // docs: add UML class diagram description
 [2026-03-12] #0029  Reorganised folder structure  // feat: add CLI interface for demo
+[2026-03-12] #0030  Patched edge case in parser  // test: add integration test for transfer flow
