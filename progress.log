@@ -34,3 +34,4 @@
 [2026-03-12] #0034  Centralised constants  // style: add type hints to all method signatures
 [2026-03-12] #0035  Optimised query performance  // chore: add requirements.txt
 [2026-03-12] #0036  Added edge-case handling  // docs: add design patterns section to README
+[2026-03-12] #0037  Refactored module structure  // feat: add abstract base class for accounts
