@@ -31,3 +31,4 @@
 [2026-03-12] #0031  Optimised query performance  // refactor: rename desafio.py to sistema-POO.py
 [2026-03-12] #0032  Added edge-case handling  // docs: add SECURITY_REPORT.md with Bandit output
 [2026-03-12] #0033  Improved variable naming  // fix: handle edge case of zero-amount transfer
+[2026-03-12] #0034  Centralised constants  // style: add type hints to all method signatures
