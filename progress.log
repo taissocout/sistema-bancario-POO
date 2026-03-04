@@ -33,3 +33,4 @@
 [2026-03-12] #0033  Improved variable naming  // fix: handle edge case of zero-amount transfer
 [2026-03-12] #0034  Centralised constants  // style: add type hints to all method signatures
 [2026-03-12] #0035  Optimised query performance  // chore: add requirements.txt
+[2026-03-12] #0036  Added edge-case handling  // docs: add design patterns section to README
